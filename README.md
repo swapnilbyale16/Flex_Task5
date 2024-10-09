@@ -24,7 +24,8 @@ To run this project locally, follow these steps:
 - This page can be used as a front-end template for sign-up pages, with buttons and form elements ready to be integrated into a back-end system.
 
 Example:
-![Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/09d9d9f1-1932-4e57-a7f5-4e70c851cad1)
+
 
 ## Features
 - **Responsive Design**: Layout adapts to various screen sizes.
